@@ -1,0 +1,3 @@
+﻿  main.c
+E:\C_Work\[최종2] AIFull_project_C\main.c(2004,7): warning C4101: 'str' :참조되지 않은 지역 변수입니다.
+  AIFull_project_2024_10_31.vcxproj -> E:\C_Work\[최종2] AIFull_project_C\x64\Debug\AIFull_project_2024_10_31.exe
